@@ -1,2 +1,2 @@
 # Project6
-***Linear Search
+  Linear Search
